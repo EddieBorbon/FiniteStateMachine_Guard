@@ -1,5 +1,5 @@
 # Finite State Machine (FSM) Demo Project 🎮
- ![Cover](coverfinite.png)
+ ![Cover](coverfinite.jpg)
  
 Welcome to the **Finite State Machine (FSM) Demo Project**! This project demonstrates the implementation of a Finite State Machine (FSM) in Unity using `NavMeshAgent` for AI-controlled NPCs. The NPCs transition between different states (Idle, Patrol, Pursue, Attack, RunAway) based on the player's proximity and actions. 🚀
 
